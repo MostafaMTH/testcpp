@@ -10,7 +10,7 @@
             "command": "g++",
             "args": [
                 
-                "CppProj/src/main.cpp",
+                "src/main.cpp",
                 "-o",
                 "${workspaceFolderBasename}/",
                 "-lglfw",
